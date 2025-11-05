@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --- Virtual environment ---
+venv/
+env/
+
+# --- IDE/Editor files ---
+.vscode/
+.idea/
+
+# --- Project config ---
+# Оставляем только пример:
+.env
+!.env.example
+
+# --- Account data (НЕ грузим на GitHub) ---
+Accounts/*.session
+Accounts/*_telethon.session
+Accounts/*.json
+Accounts/*.txt
+Accounts/*
+
+# --- Parser results (не публикуем) ---
+results_*.txt
+*.txt
+
+# --- Proxy and sensitive lists ---
+proxy.txt
+queries.txt
+
+# --- Build / dist ---
+build/
+dist/
+*.spec
+
+# --- OS artifacts ---
+*.DS_Store
+Thumbs.db
