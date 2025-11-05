@@ -1,6 +1,6 @@
 # 🇬🇧 Telegram Search Parser
 
-**Языки / Languages:**
+**Languages:**
 🇷🇺 Русский — [README.md](README.md)  
 🇬🇧 English — this file
 
