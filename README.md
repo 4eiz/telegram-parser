@@ -66,7 +66,7 @@ project/
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/4eiz/telegram-parser.git
 cd REPO
 
 python -m venv venv
