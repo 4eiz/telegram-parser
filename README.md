@@ -1,5 +1,9 @@
 # 🇷🇺 Telegram Search Parser
 
+**Языки / Languages:**
+🇷🇺 Русский — этот файл  
+🇬🇧 English — [README_EN.md](README_EN.md)
+
 **Telegram Search Parser** — это инструмент для массового поиска каналов и чатов в Telegram по ключевым словам с поддержкой:
 
 * нескольких аккаунтов (каждый со своим `.json` + `.session`),
