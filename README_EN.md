@@ -67,7 +67,7 @@ project/
 
 ```bash
 git clone https://github.com/4eiz/telegram-parser.git
-cd REPO
+cd telegram-parser
 
 python -m venv venv
 venv\Scripts\activate  # Windows
